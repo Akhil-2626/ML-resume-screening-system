@@ -1,4 +1,4 @@
-# FUTURE_ML_03
+# ML-resume-screening-system
 Project Overview:
 The AI Resume Screening System is designed to automate candidate evaluation by matching resumes against job descriptions. It uses Natural Language Processing (NLP), skill extraction, TF-IDF similarity scoring, and ATS-inspired ranking techniques to identify the most suitable candidates for a role.
 
